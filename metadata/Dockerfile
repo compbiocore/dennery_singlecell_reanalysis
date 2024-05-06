@@ -1,3 +1,1 @@
-FROM ghcr.io/compbiocore/dennery_singlecell_reanalysis:may_06_04-11-02_2024
-#RUN R -e 'install.packages("https://cran.r-project.org/src/contrib/Archive/rstatix/rstatix_0.6.0.tar.gz", repos = NULL, type = "source")' \
-RUN R -e 'install.packages("https://cran.r-project.org/src/contrib/Archive/sctransform/sctransform_0.2.1.tar.gz", repos = NULL, type = "source")' \
+FROM ghcr.io/compbiocore/dennery_singlecell_reanalysis:may_06_04-36-53_2024

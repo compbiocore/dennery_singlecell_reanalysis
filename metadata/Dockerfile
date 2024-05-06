@@ -59,7 +59,7 @@ RUN apt-get update && \
         libpoppler-cpp-dev \
         && apt-get clean && rm -rf /var/lib/apt/lists/*
 	
-RUN ln -s /usr/lib/rstudio-server/bin/rsession /usr/local/bin/rsession
+#RUN ln -s /usr/lib/rstudio-server/bin/rsession /usr/local/bin/rsession
 
 # FFTW, FIt-SNE
 RUN wget http://www.fftw.org/fftw-3.3.8.tar.gz \

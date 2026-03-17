@@ -1,1 +1,1 @@
-FROM ghcr.io/compbiocore/dennery_singlecell_reanalysis:may_07_09-45-07_2024
+FROM ghcr.io/compbiocore/ccv_bootcamp_scrna:jul_15_04-31-00_2024

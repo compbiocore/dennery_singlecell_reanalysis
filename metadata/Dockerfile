@@ -1,1 +1,1 @@
-FROM ghcr.io/compbiocore/ccv_bootcamp_scrna:jul_15_04-31-00_2024
+FROM ghcr.io/compbiocore/ccv_bootcamp_scrna:may_13_11-46-27_2024

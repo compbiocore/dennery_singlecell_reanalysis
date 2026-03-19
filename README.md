@@ -11,7 +11,7 @@ and here: `Scaffa, A. et al. Single-cell transcriptomics reveals lasting changes
 
 ## How to reproduce
 
-The Dockerfile can be re-built or pulled from Dockerhub at `jwalla12/dennery_scrna_reanalysis:20260319-4`. The RData object to recreate the analysis is available upon request (it is quite large).
+The Dockerfile can be re-built or pulled from Dockerhub at `jwalla12/dennery_scrna_reanalysis:20260319-4`. The `all_data.combined` R object is on Zenodo at https://zenodo.org/records/19118171
 
 ```
 title:
